@@ -1,0 +1,61 @@
+body {
+    background-image: url("https://www.walldevil.com/wallpapers/w01/446839-forest-mist-monochrome-pine-trees.jpg")}
+
+h3 {color: white;
+     font-size: 20px;
+     font-family: 'Dosis', sans-serif;
+ }
+ 
+
+ 
+ #title {color: white;
+         font-size: 24px;
+         font-family: 'Dosis', sans-serif;
+ }
+
+.input {color: white;
+        font-size: 14px;
+        font-family: 'Dosis', sans-serif;
+}
+
+.message {
+    color: white;
+     font-size: 20px;
+     font-family: 'Dosis', sans-serif;
+     background: black;
+     font-weight: 100;
+}
+
+.results_background { 
+    background-image: url("http://krystarownd.com/wp-content/uploads/2017/07/forest-park-wedding-photography-2.jpg");
+    background-size: auto;
+   
+}
+
+/*.input {*/
+/*  background: #413D3D;*/
+/*  border: solid;*/
+/*  border-color: lightgrey;*/
+/*}*/
+
+.quiz_title {
+        color: white;
+    font-size: 24px;
+    font-family: 'Dosis', sans-serif;
+    background: black;
+
+}
+
+
+.survey_title {
+    background: black;
+    color: white;
+    width: 25%;
+}
+
+.center1{
+    text-align: center;
+    padding-left:100px;
+}
+
+
